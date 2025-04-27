@@ -2,7 +2,15 @@
 <p align="center"> ${{\color{#00ff00}\Huge{\texttt{HELLO}}}}$ ⭐</p>
 
 <div align="center">
-
+── .✦
+ "You mean a lot to me Jesse, I-- More than anyone else, you've been there... and I don't want to leave if that means... you're my best friend Jesse." - Petra
+<div align="center">
+•
+<div align="center">
+×
+<div align="center">
++
+  
   ![](https://komarev.com/ghpvc/?username=Soul-StarCollective&color=000000)
 </div>
 
