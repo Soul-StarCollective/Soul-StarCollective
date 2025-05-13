@@ -16,6 +16,9 @@
 ×
 <div align="center">
 +
+basic dni, larger list on straw
+DIDsystem
+minor
   
   ![](https://komarev.com/ghpvc/?username=Soul-StarCollective&color=000000)
 </div>
