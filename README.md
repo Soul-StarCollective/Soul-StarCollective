@@ -17,8 +17,8 @@
 <div align="center">
 +
 basic dni, larger list on straw
-DIDsystem
-minor
+ , DIDsystem , 
+minor , ── .✦
   
   ![](https://komarev.com/ghpvc/?username=Soul-StarCollective&color=000000)
 </div>
@@ -27,7 +27,7 @@ minor
  
 ![17457103302931326613370171167854](https://github.com/user-attachments/assets/159d207e-2979-48e1-86d6-21257c6a260e)
 
-still a wip 😭
+still a wip
   
 
 [^1]:[(https://open.spotify.com/user/31t6iahnmjtxuosnnwfe3dhwkcsa?si=4JTg4ga7QimpMi56UOJsiA)]
